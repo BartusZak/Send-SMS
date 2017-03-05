@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="ApplicationName">Wyślij SMS\'a</string>
+  <string name="GiveNumber">Wpisz numer telefonu</string>
+  <string name="CallText">Wyślij</string>
+  <string name="Cancel">Anuluj</string>
+  <string name="AlertInfo">Wysłanie SMS\'a może być płatne. Czy chcesz kontynuować?</string>
+  <string name="GiveText">Treść wiadomości:</string>
+  <string name="MessageSent">Wiadomość została wysłana!</string>
+  <string name="Ok">Ok!</string>
+</resources>

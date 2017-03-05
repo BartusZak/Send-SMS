@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">Send SMS</string>
+    <string name="GiveNumber">Enter a phone number</string>
+    <string name="CallText">Send</string>
+    <string name="Cancel">Cancel</string>
+    <string name="AlertInfo">Sending msg might be charged. Do you want to continue?</string>
+    <string name="GiveText">Write message:</string>
+   <string name="MessageSent">Message has been sent!</string>
+  <string name="Ok">Ok!</string>
+
+</resources>
