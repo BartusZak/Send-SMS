@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="ApplicationName">Enviar SMS</string>
+  <string name="GiveNumber">Introduzca el número de teléfono</string>
+  <string name="CallText">Enivar</string>
+  <string name="Cancel">Cancelar</string>
+  <string name="AlertInfo">Envío de SMS no puede ser garantizada. ¿Quieres continuar?</string>
+  <string name="GiveText">Su mensaje:</string>
+  <string name="MessageSent">Este mensaje fue enviado!</string>
+  <string name="Ok">Ok!</string>
+</resources>
